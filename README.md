@@ -23,10 +23,14 @@ division). Then, it should perform the selected operation and display the result
 user.
  
  **KEY ACTIVITIES**
-  .BASIC ARITHEMATIC OPERATIONS
+  BASIC ARITHEMATIC OPERATIONS
+  
   ADDITION 
+  
   SUBTRACTION 
+  
   MULTIPLICATION 
+  
   DIVISON
 
 **TECHNOLOGIES USED**
